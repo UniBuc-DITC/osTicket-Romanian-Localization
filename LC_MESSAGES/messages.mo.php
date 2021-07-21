@@ -2581,7 +2581,7 @@ PO-Revision-Date: 2020-04-28 14:45
   'ticket state nameClosed' => 'Inchis',
   'ticket state nameDeleted' => 'Sters',
   'ticket state nameOpen' => 'Deschide',
-  'ticket-statusOpen' => 'Deschide',
+  'ticket-statusOpen' => 'Deschise',
   'to a Team' => 'unei echipe',
   'to an Agent' => 'unui agent',
   'to archive/delete tickets' => 'de a arhiva/sterge tichete',
