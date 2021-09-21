@@ -1777,7 +1777,7 @@ PO-Revision-Date: 2020-04-28 14:45
   'Stock Templates' => 'Sabloane Stoc',
   'Store Attachments' => 'Stocheaza Atasamente',
   'Strip Quoted Reply' => 'Sterge Citat Raspuns',
-  'Subject' => 'Subiect',
+  'Subject' => 'Titlu problemă',
   'Subject required' => 'Subiect obligatoriu',
   'Subject, if any' => 'Subiect, dacă este cazul',
   'Submit' => 'Salveaza',
