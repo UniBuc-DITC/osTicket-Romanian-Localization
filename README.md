@@ -10,7 +10,7 @@ For example:
 
 ```sh
 cd include/i18n
-git clone git@gitlab.com:unibuc/directia-itc/osticket-romanian-localization.git ro
+git clone git@github.com:UniBuc-DITC/osTicket-Romanian-Localization.git ro
 ```
 
 Romanian should then pop up as an available language in the admin settings page.
